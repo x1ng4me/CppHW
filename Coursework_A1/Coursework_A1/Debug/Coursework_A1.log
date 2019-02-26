@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\acse5-user\source\repos\coursework_a1\coursework_a1\source.cpp(6): warning C4101: 'j': unreferenced local variable
+c:\users\acse5-user\source\repos\coursework_a1\coursework_a1\source.cpp(6): warning C4101: 'i': unreferenced local variable
+  Coursework_A1.vcxproj -> C:\Users\acse5-user\source\repos\Coursework_A1\Debug\Coursework_A1.exe
