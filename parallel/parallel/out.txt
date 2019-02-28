@@ -1,0 +1,8 @@
+the first input number is: 23
+the second input number is: 21
+the greatest division number is 1
+
+the first input number is: 12
+the second input number is: 22
+the greatest division number is 2
+

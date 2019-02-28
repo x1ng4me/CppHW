@@ -115,7 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="..\..\..\..\source\repos\Project10\Project10\Problem_1.cpp" />
+    <ClCompile Include="..\..\..\..\source\repos\Project10\Project10\Problem_3.cpp" />
+    <ClCompile Include="..\..\..\..\source\repos\Project10\Project10\Problem_4.cpp" />
+    <ClCompile Include="..\..\..\..\source\repos\Project10\Project10\Problem_B2.cpp" />
+    <ClCompile Include="..\..\..\..\source\repos\Project10\Project10\Problem_B3.cpp" />
+    <ClCompile Include="..\..\..\..\source\repos\Project10\Project10\Problem_C1.cpp" />
+    <ClCompile Include="..\..\..\acse-5-advanced-programming-coursework-3-last-but-not-least\Matrix_solver\Matrix_solver\Main.cpp" />
+    <ClCompile Include="B1.cpp" />
+    <ClCompile Include="Problem_2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
